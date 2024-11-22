@@ -1,0 +1,14 @@
+C:\Users\BUKI\source\repos\Try_catch_finally\Try_catch_finally\bin\Debug\net8.0\Try_catch_finally.exe
+C:\Users\BUKI\source\repos\Try_catch_finally\Try_catch_finally\bin\Debug\net8.0\Try_catch_finally.deps.json
+C:\Users\BUKI\source\repos\Try_catch_finally\Try_catch_finally\bin\Debug\net8.0\Try_catch_finally.runtimeconfig.json
+C:\Users\BUKI\source\repos\Try_catch_finally\Try_catch_finally\bin\Debug\net8.0\Try_catch_finally.dll
+C:\Users\BUKI\source\repos\Try_catch_finally\Try_catch_finally\bin\Debug\net8.0\Try_catch_finally.pdb
+C:\Users\BUKI\source\repos\Try_catch_finally\Try_catch_finally\obj\Debug\net8.0\Try_catch_finally.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BUKI\source\repos\Try_catch_finally\Try_catch_finally\obj\Debug\net8.0\Try_catch_finally.AssemblyInfoInputs.cache
+C:\Users\BUKI\source\repos\Try_catch_finally\Try_catch_finally\obj\Debug\net8.0\Try_catch_finally.AssemblyInfo.cs
+C:\Users\BUKI\source\repos\Try_catch_finally\Try_catch_finally\obj\Debug\net8.0\Try_catch_finally.csproj.CoreCompileInputs.cache
+C:\Users\BUKI\source\repos\Try_catch_finally\Try_catch_finally\obj\Debug\net8.0\Try_catch_finally.dll
+C:\Users\BUKI\source\repos\Try_catch_finally\Try_catch_finally\obj\Debug\net8.0\refint\Try_catch_finally.dll
+C:\Users\BUKI\source\repos\Try_catch_finally\Try_catch_finally\obj\Debug\net8.0\Try_catch_finally.pdb
+C:\Users\BUKI\source\repos\Try_catch_finally\Try_catch_finally\obj\Debug\net8.0\Try_catch_finally.genruntimeconfig.cache
+C:\Users\BUKI\source\repos\Try_catch_finally\Try_catch_finally\obj\Debug\net8.0\ref\Try_catch_finally.dll
